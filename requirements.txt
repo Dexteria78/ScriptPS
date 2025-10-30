@@ -1,5 +1,0 @@
-# Network Config Generator - Requirements
-# Python 3.6+
-
-# Tkinter is included with Python standard library
-# No additional packages required for basic functionality
